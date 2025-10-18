@@ -70,7 +70,7 @@ Always respond naturally and avoid listing unnecessary items.”
 
 Clone this repository
 
-git clone https://github.com/yourusername/restaurant-whatsapp-bot.git
+git clone https://github.com/Tanzeela00Sharif/restaurant-whatsapp-bot.git
 
 
 Import the .json n8n workflow into your n8n instance.
@@ -109,5 +109,5 @@ Enable voice message understanding using Whisper API
 Tanzeela Sharif
 Data Science & AI Automation Enthusiast
 📧 Email: tanzeelasharif1@gmail.com
-]
+
 🌐 GitHub: https://github.com/Tanzeela00Sharif
