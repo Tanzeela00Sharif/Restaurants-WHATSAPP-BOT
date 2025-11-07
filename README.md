@@ -23,7 +23,11 @@ Google Drive	Source for uploading meal data files (CSV or PDF).
 WhatsApp Cloud API	Used for receiving and sending customer messages.
 PostgreSQL Chat Memory	Maintains conversational context with customers.
 🧠 Workflow Overview
+
+
 Video description of workflow:
+
+
 https://youtu.be/YiP8R5js9RY
 
 The automation consists of two main pipelines:
